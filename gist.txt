@@ -1,11 +1,7 @@
 --------------------
-
-GitHub Token: c554c554eb85e520fc73fcde78aa2a69a96db7b78ddb
-GitHub Gist: c46382e116a2906d79e7cc7660171b26
-
+GitHub Token: c554**********
+GitHub Gist: 3f7af450233a14969f6f0f87dfa41542
 GitHub Gist Type: Secret
 
-
 Restarting Visual Studio Code may be required to apply color and file icon theme.
-
 --------------------
